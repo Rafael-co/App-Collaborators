@@ -6,14 +6,23 @@ tem um sistema de Login podendo ter vários usuários
 
 ## Tecnologias usadas 
 -Angular
+
 -Angular Material
+
 -Guards
+
 -Interfaces
+
 -Jsons
+
 -Crud
+
 -Observable
+
 -RXJS
+
 -Pipes
+
 -Firebase :
    Authentication
    Firestorage
