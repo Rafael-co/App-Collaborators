@@ -1,7 +1,9 @@
 # AppCollaborators
 
 Este foi um projeto foi feito em angular visando aumentar melhorar meu entendimento com o mesmo
+
  Objetivo da aplicação: Ser um administrador de colaboradores de uma empresa genérica podendo ;  ver os colaboradores adicionados, adicionar novos , editar os existentes e excluir os que já se desligaram.
+ 
 tem um sistema de Login podendo ter vários usuários
 
 ## Tecnologias usadas 
