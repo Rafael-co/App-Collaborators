@@ -1,4 +1,8 @@
+
 # Experimente a aplicação : https://collaborador-app2.web.app/
+
+# Como executar o projeto
+Faça um clone do repositorio, execute o NPM install no cmd dentro da pasta espere a instalações das dependencia e execute o comando ng s -o tambem no cmd
 
 # AppCollaborators
 
